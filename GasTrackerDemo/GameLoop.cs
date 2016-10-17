@@ -35,6 +35,7 @@ namespace GasTrackerDemo
 
                 Console.Clear();
                 Console.WriteLine($"Hi, {owner.Name}. Welcome to your garage");
+
                 int vehicleNumber = 1;
                 foreach (var vehicle in vehicles)
                 {

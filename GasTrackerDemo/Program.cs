@@ -10,6 +10,7 @@ namespace GasTrackerDemo
 {
     class Program
     {
+        // ReSharper disable once UnusedParameter.Local
         static void Main(string[] args)
         {
             // Pull root URL and api keys from web.config or app.config
